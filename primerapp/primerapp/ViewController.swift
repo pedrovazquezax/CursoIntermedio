@@ -32,8 +32,6 @@ class ViewController: UIViewController {
         label.font = UIFont(name: "Yuanti SC", size: 15)
         label.textAlignment = .center
         
-        
-        
     }
     
   
