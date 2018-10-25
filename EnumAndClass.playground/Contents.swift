@@ -30,6 +30,8 @@ case .east:
 case .west:
     print("Where the skies are blue")
 }
+
+
 //Clases
 
 class Person{
